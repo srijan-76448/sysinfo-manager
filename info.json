@@ -1,1 +1,46 @@
-{}
+[
+    {
+        "Device": "",
+        "Info": {
+            "IPv4": "",
+            "IPv6": "",
+            "Up-Time": "%H:%M:%S",
+            "CPU": {
+                "Usage": null,
+                "Load-Avg": null,
+                "Temp": {
+                    "Core-1": "°C",
+                    "Core-2": "°C",
+                    "Core-3": "°C",
+                    "Core-4": "°C"
+                }
+            },
+            "Storage": {
+                "Disk-1": {
+                    "Type": "",
+                    "Total": "GiB",
+                    "Usage": "%",
+                    "Available": "GiB"
+                }
+            },
+            "RAM": {
+                "Total": "GiB",
+                "In-Use": "%"
+            },
+            "Processes": {
+                "Total": null,
+                "Running": null
+            },
+            "Network": {
+                "Type": "",
+                "Provider": "",
+                "Strength": "%"
+            },
+            "Battery": {
+                "Charger": ,
+                "Percent": "%",
+                "Life": "%H:%M:%S"
+            }
+        }
+    }
+]
